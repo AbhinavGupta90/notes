@@ -1,0 +1,9 @@
+Q >>login to gmail account and showing SMTP error
+
+Ans >> go to account
+turn ON Less secure app access
+after this when you try to send mail from your app you will get error .
+than go to Security issues found ( it's first option in security tab of google account )
+here you need to verify that last activities is verified and its you . 
+Thats it . now you can able to send mail . check it .
+Thanks
